@@ -1,0 +1,18 @@
+{
+  "name": "LC ETH",
+  "symbol": "lcETH",
+  "description": "LC ETH devnet token",
+  "image": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+
+  "attributes": [],
+
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

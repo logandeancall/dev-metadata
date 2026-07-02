@@ -2,7 +2,7 @@
   "name": "LC ETH",
   "symbol": "lcETH",
   "description": "LC ETH devnet token",
-  "image": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+  "image": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/eth.svg",
 
   "attributes": [],
 
@@ -10,7 +10,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+        "uri": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/eth.svg",
         "type": "image/png"
       }
     ]

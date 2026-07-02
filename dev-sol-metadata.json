@@ -2,7 +2,7 @@
   "name": "LC SOL",
   "symbol": "lcSOL",
   "description": "LC SOL devnet token",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png",
+  "image": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/sol.svg",
 
   "attributes": [],
 
@@ -10,7 +10,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png",
+        "uri": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/sol.svg",
         "type": "image/png"
       }
     ]

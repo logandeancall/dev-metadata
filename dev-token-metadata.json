@@ -2,7 +2,7 @@
   "name": "LC Bitcoin",
   "symbol": "lcBTC",
   "description": "LC Bitcoin devnet token",
-  "image": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+  "image": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/btc.svg",
 
   "attributes": [],
 
@@ -10,7 +10,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+        "uri": "https://lightcone-public.s3.ap-northeast-1.amazonaws.com/btc.svg",
         "type": "image/png"
       }
     ]
